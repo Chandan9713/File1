@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 3A8F-D5B1
+
+ Directory of E:\jenkins\gitTest
+
+19-May-18  01:30 PM    <DIR>          .
+19-May-18  01:30 PM    <DIR>          ..
+19-May-18  01:30 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,179,990,016 bytes free
